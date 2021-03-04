@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "titulo": "Agua con gas Pellegrino",
+        "precioRebajado": 720,
+        "precioReal": 800,
+        "img": "agua-sin-gas.jpg",
+        "data-id": "B1"
+    }
+
+]
