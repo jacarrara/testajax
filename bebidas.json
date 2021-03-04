@@ -5,7 +5,7 @@
         "precioRebajado": 720,
         "precioReal": 800,
         "img": "agua-sin-gas.jpg",
-        "data-id": "B1"
+        "dataId": "B1"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "precioRebajado": 450,
         "precioReal": 500,
         "img": "agua-sin-gas.jpg",
-        "data-id": "B2"
+        "dataId": "B2"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "precioRebajado": 360,
         "precioReal": 400,
         "img": "andes-origen.jpg",
-        "data-id": "B3"
+        "dataId": "B3"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "precioRebajado": 117,
         "precioReal": 130,
         "img": "aquarius-pera.jpg",
-        "data-id": "B4"
+        "dataId": "B4"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "precioRebajado": 171,
         "precioReal": 190,
         "img": "aquarius-pomelo.jpg",
-        "data-id": "B5"
+        "dataId": "B5"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "precioRebajado": 441,
         "precioReal": 490,
         "img": "brahma.jpg",
-        "data-id": "B6"
+        "dataId": "B6"
     }
 
 ]
